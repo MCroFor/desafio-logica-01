@@ -1,8 +1,10 @@
 # Desafio-logica-01
 
+Este projeto foi meu primeiro desafio de lógica em JavaScript da mentoria 2.0 do Julio de Lima. Que consiste em implementar uma função para cálcular o desconto de uma compra.
+
 ## Como Funciona
 
-Este projeto é um desafio de lógica em JavaScript da mentoria 2.0 do Julio de Lima. Que consiste em implementar uma função para cálcular o desconto de uma compra (como valor da compra e percentual de desconto) e retorna o resultado esperado.
+A função principal recebe parâmetros específicos (como valor da compra e percentual de desconto) e retorna o resultado esperado.
 
 ## Como Usar
 
