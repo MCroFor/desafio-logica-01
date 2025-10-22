@@ -1,4 +1,4 @@
-# desafio-logica-01
+# Desafio-logica-01
 
 ## Como Funciona
 
