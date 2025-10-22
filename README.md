@@ -11,7 +11,7 @@ A função principal recebe parâmetros específicos (como valor da compra e per
 Clone o repositório com o comando git clone
 
 ```bash
-git clone https://github.com/MCroFor/desafio-logica-01.git
+https://github.com/MCroFor/desafio-logica-01.git
 ```
 
 ## Como Testar
